@@ -11,7 +11,10 @@ h1 {
     padding: 25px 0;
 }
 
-
+img{
+    margin: auto;
+    padding: 20px 50px;
+}
 
 .subhead {
     background-color: #281B2D;
